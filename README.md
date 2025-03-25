@@ -8,14 +8,14 @@ This project is a survey form created using HTML and CSS.  It's designed to gath
 
 ## Files Included
 
-* `index.html`:  The HTML file that structures the survey form.
-* `form.css`: The CSS file that styles the survey form.
+*   The HTML file that structures the survey form.
+*  The CSS file that styles the survey form.
 
 ## HTML Structure (`index.html`)
 
-The `index.html` file contains the following elements:
+The Html file contains the following elements:
 
-* ** контейнер:** A main container for the entire form.
+* A main container for the entire form.
 * ** header:** Contains the survey title ("Survey Form") and a descriptive subtitle.
 * ** form:** The form itself (`id="survey-form"`) with the following fields:
     * **Name:** A text input for the user's name (`required`).
@@ -33,7 +33,7 @@ The `index.html` file contains the following elements:
 
 ## CSS Styling (`form.css`)
 
-The `form.css` file provides the following styling:
+The Css file provides the following styling:
 
 * **Global Styles:** Resets box-sizing, sets font, and establishes a base for the page.
 * **Background:** A gradient background with an image.
@@ -46,7 +46,7 @@ The `form.css` file provides the following styling:
 
 ## How to Use
 
-1.  **Open in a Browser:** Open the `index.html` file in a web browser.
+1.  **Open in a Browser:** Open the Html file in a web browser.
 2.  **Fill in the Form:** Complete the form fields with the requested information.
 3.  **Submit:** Click the "Submit" button.
 
